@@ -13,10 +13,12 @@ The result shows:
 
 <img src=https://github.com/neneyhsw/programming/blob/main/sorting_results.png width="400" height="300">
 
+## Topic 2
+This topic design a binary search tree.  
+
 ### In binary_search_tree.c
-This topic design a binary search tree  
-This program use different inorder, preorder, and postorder travelsal  
-Users have 5 options, include print travelsal, insert node, delete node, Search node, and leave  
+This program use different inorder, preorder, and postorder travelsal.  
+Users have 5 options, include print travelsal, insert node, delete node, Search node, and leave.  
 
 The Tree in cmd shows:  
 
