@@ -8,6 +8,7 @@ There are three array by different sorting.
 
 ### In sorting.c
 caseA is ascending, caseB is descending, and caseC is random.  
+This repository use bubble sort, selection sort, and heap sort.  
 
 The result shows:  
 
