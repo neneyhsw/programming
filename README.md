@@ -9,7 +9,7 @@ There are three array by different sorting.
 ### In sorting.c
 caseA is ascending, caseB is descending, and caseC is random.  
 This repository use bubble sort, selection sort, and heap sort.  
-Calculating the average time to nine decimal place.  
+Calculating the average time to nine decimal places.  
 
 The result shows:  
 
