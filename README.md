@@ -8,7 +8,7 @@ There are three array by different sorting.
 
 ### In sorting.c
 caseA is ascending, caseB is descending, and caseC is random.  
-This repository use bubble sort, selection sort, and heap sort.  
+This file use bubble sort, selection sort, and heap sort.  
 Calculating the average time to nine decimal places.  
 
 The result shows:  
@@ -22,6 +22,10 @@ This topic design a binary search tree.
 This program use different inorder, preorder, and postorder travelsal.  
 Users have 5 options, include print travelsal, insert node, delete node, Search node, and leave.  
 when the user choose 1 to 4, it will show the tree in terminal.  
+This file is implemented by pointer.  
+The tree figure refer to below:  
+
+reference: https://stackoverflow.com/questions/801740/c-how-to-draw-a-binary-tree-to-the-console
 
 
 The Tree in cmd shows:  
