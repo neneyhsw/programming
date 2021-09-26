@@ -47,3 +47,4 @@ Problem reference: https://leetcode.com/problems/two-sum/
 This problem is stable marriage problem.  
 It needs to macth N man and N woman by their preference.  
 It has two strategies, man proposes to woman and woman proposes to man.  
+It will read the test data from Gale Shapley Algorithm Test Data folder.  
