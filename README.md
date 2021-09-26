@@ -31,3 +31,19 @@ reference: https://stackoverflow.com/questions/801740/c-how-to-draw-a-binary-tre
 The Tree in cmd shows:  
 
 <img src=https://github.com/neneyhsw/programming/blob/main/show_tree.png width="400" height="350">  
+
+## Topic 3 (Two Sum)
+### In two_sum.cpp
+This problem is Two Sum.  
+The answer needs to be returned the index of list from the input list.  
+In two_sum.cpp, there are two solutions.  
+One solves two sum problem by two for loop. Its time complexity is O(n^2).  
+Another solution use hash map. It can improve time complexity to O(n).
+
+Problem reference: https://leetcode.com/problems/two-sum/  
+
+## Topic 4 (Gale Shapley Algorithm)
+### In Gale_Shapley_Algorithm.cpp
+This problem is stable marriage problem.  
+It needs to macth N man and N woman by their preference.  
+It has two strategies, man proposes to woman and woman proposes to man.  
